@@ -55,7 +55,7 @@ def SIMBAD(RA, DEC, RADIUS):
         result_table.pprint(show_unit=True, max_width=80, max_lines=5)
     else:
         print(f"No astronomical objects found in SIMBAD with these parameters: {RA} degrees, {DEC} degrees, {RADIUS} arcseconds.")
-
+#Gaia query
 def GAIA(RA, DEC, RADIUS):
   coord = SkyCoord(ra=RA, dec=DEC, unit=(u.degree, u.degree), frame='icrs')
   width = u.Quantity(RADIUS, u.arcsecond)
