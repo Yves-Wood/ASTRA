@@ -10,7 +10,8 @@ The directory can be found in the title box of each VizieR catalog highlighted i
 
 To enter a VizieR catalog into ASTRA, paste it into the VizieR databases plot, putting a space in between each directory. 
 
-ASTRA will not return any photometric data from any database. SIMBAD will return the name of the object, right Ascension, and Bibcode. GAIA will return a table showing the designation and parallax of the object (Parallax is included because that's often a good indicator as to whether the object is new or not). VizieR will return a table list with the directory of each table. This can easily be googled which will turn up which VizieR database it is. 
+ASTRA will not return any photometric data from any database. 
+SIMBAD will return the name of the object, right Ascension, and Bibcode. GAIA will return a table showing the designation and parallax of the object (Parallax is included because that's often a good indicator as to whether the object is new or not). VizieR will return a table list with the directory of each table. This can easily be googled which will turn up which VizieR database it is. 
 
 The recommended search radius is 5 arcseconds or less. This helps to minimize getting objects back that may not be the object you're looking for.
 
