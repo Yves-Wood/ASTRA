@@ -7,7 +7,7 @@
 #     d88P   888       "888    888     888 T88b     d88P   888  #
 #    d8888888888 Y88b  d88P    888     888  T88b   d8888888888  #
 #   d88P     888  "Y8888P"     888     888   T88b d88P     888  #
-#        Automated Search Tool for Reasearch in Astronomy       #
+#        Automated Search Tool for Research in Astronomy       #
 #                        Yves Wood 2024                         #
 #################################################################
 #READ ME: 
