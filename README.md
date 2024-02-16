@@ -1,4 +1,3 @@
-ASTRA
 ASTRA (Automated Search Tool for Research in Astronomy) is a tool to streamline the process for verifying if an object is a new discovery.
 
 Install instructions:
