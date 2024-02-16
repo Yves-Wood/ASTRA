@@ -4,7 +4,7 @@ ASTRA (Automated Search Tool for Research in Astronomy) is a tool to streamline 
 Install instructions:
 Run the install_packages.py code to install all modules needed for ASTRA.
 
-This program uses astroquery. Due to how Astroquery works VizieR cannot be searched in its entirety. Due to this, you need to enter the directory of each catalog manually (eg: J/AJ/151/41/movers). 
+This program uses astroquery. If you wish to search the entirety of VizieR, leave you VizieR catalogs blank. If you wish to search specific databases, you need to enter the directory of each catalog manually (eg: J/AJ/151/41/movers) and separate with a space.
 
 The directory can be found in the title box of each VizieR catalog highlighted in blue.
 
